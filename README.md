@@ -37,11 +37,5 @@ my-css-project/
 2. Open `index.html` in a browser (or use VS Code Live Server)
 
 ## Notes
-[If you followed a tutorial or course, say so here, e.g. "Built while following a Bootstrap course; I customized the colors and content."]
-[If AI helped, add: "I used an AI assistant for design suggestions and reviewed the result."]
-Placeholder text is used for the descriptions.
+Built while following a Bootstrap course; I customized the colors and content.
 
-## Possible Improvements
-- Link the navigation items to real sections
-- Add descriptive alt text for images
-- Replace the placeholder text with real content
