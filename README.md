@@ -5,7 +5,7 @@ A responsive, single-page landing site for a fictional candy museum, built with 
 **Live demo:** 
 https://vanshr3132-alt.github.io/my-css-project/
 
-
+https://github.com/vanshr3132-alt/my-css-project/blob/main/museumofcandyss.png
 
 ## Features
 - Fixed navigation bar that collapses into a hamburger menu on small screens
